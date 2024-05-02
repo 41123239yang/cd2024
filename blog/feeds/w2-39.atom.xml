@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計 - w2 39</title><link href="./" rel="alternate"></link><link href="./feeds/w2-39.atom.xml" rel="self"></link><id>./</id><updated>2024-05-02T07:23:10+08:00</updated><entry><title>41123239w2</title><link href="./W2%2039.html" rel="alternate"></link><published>2024-03-02T11:01:00+08:00</published><updated>2024-05-02T07:23:10+08:00</updated><author><name>41123239w2</name></author><id>tag:None,2024-03-02:./W2 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;利用 init_replit 指令安裝所需 Python 模組&lt;/h1&gt;
+&lt;p&gt;啟動動態 指令 1.chmod u+x init_replit 2. ./init_replit 3. Python3 main.py&lt;/p&gt;
+&lt;p&gt;靜態 指令 Python3 -m http.server&lt;/p&gt;
+&lt;p&gt;Push 指令 1.git add . 2. git commit -m " add+你要推的內容 " 3. git push&lt;/p&gt;</content><category term="w2 39"></category><category term="41123239w2"></category></entry></feed>

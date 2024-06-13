@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計 - w15 39</title><link href="./" rel="alternate"></link><link href="./feeds/w15-39.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:34:33+08:00</updated><entry><title>41123239W15</title><link href="./w15%2039.html" rel="alternate"></link><published>2024-05-14T11:00:00+08:00</published><updated>2024-06-13T07:34:33+08:00</updated><author><name>41123239w15</name></author><id>tag:None,2024-05-14:./w15 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計 - w15 39</title><link href="./" rel="alternate"></link><link href="./feeds/w15-39.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:38:02+08:00</updated><entry><title>41123239W15</title><link href="./w15%2039.html" rel="alternate"></link><published>2024-05-23T11:00:00+08:00</published><updated>2024-06-13T07:38:02+08:00</updated><author><name>41123239w15</name></author><id>tag:None,2024-05-23:./w15 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;CoppeliaSim 的操作 (足球場)&lt;/h1&gt;
-&lt;p&gt;足球場景, 要導到 CoppeliaSim ,要先找到自己的 ipv4 的網路, 關掉防火牆, 也要把內部程式的網路改成對應的 ipv , 才能執行虛擬網頁操作. 但我遇到的問題是, 網路有改, 防火牆也有關, 就是跑不出來, 是失敗的. (前提是老師有開啟共用 ip 的情況下操作)&lt;/p&gt;</content><category term="w15 39"></category><category term="41123239w15"></category></entry></feed>
+&lt;h1&gt;w15&lt;/h1&gt;</content><category term="w15 39"></category><category term="41123239w15"></category></entry></feed>

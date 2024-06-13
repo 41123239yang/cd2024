@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計 - W6 39</title><link href="./" rel="alternate"></link><link href="./feeds/w6-39.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T06:39:29+08:00</updated><entry><title>41123239W6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計 - W6 39</title><link href="./" rel="alternate"></link><link href="./feeds/w6-39.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T06:56:08+08:00</updated><entry><title>Tags: 41123239w6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-06-13T06:56:08+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;W6&lt;/h1&gt;
-&lt;p&gt;我把我負責的影片上傳上去.....&lt;/p&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry></feed>
+&lt;p&gt;更新分組倉儲中的分組倉儲
+cd2024 2a w6 取下子模組, 以及更新學員倉儲內容&lt;/p&gt;
+&lt;p&gt;先前我們有把每個人的倉儲利用子模組導入組別倉儲, 即使你自己的倉儲有更新內容, 也不會顯示目前更新次數, 如何讓子
+模組同步就利用 update 更新到最新版本. *&lt;/p&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry></feed>

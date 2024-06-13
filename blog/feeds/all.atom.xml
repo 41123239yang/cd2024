@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T06:39:29+08:00</updated><entry><title>41123239W12</title><link href="./w12%2039.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w12</name></author><id>tag:None,2024-05-02:./w12 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T06:56:08+08:00</updated><entry><title>41123239W12</title><link href="./w12%2039.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w12</name></author><id>tag:None,2024-05-02:./w12 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;12周網誌&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123239_nfu_edu_tw/EXTDx-sl7RpCgxBMuDlkDmABQUrRNQQXvgFjCGgpIDgDgA?e=bPZ40a"&gt;零件3&lt;/a&gt;&lt;/p&gt;</content><category term="w12 39"></category><category term="41123239w12"></category></entry><entry><title>41123239W6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123239_nfu_edu_tw/EXTDx-sl7RpCgxBMuDlkDmABQUrRNQQXvgFjCGgpIDgDgA?e=bPZ40a"&gt;零件3&lt;/a&gt;&lt;/p&gt;</content><category term="w12 39"></category><category term="41123239w12"></category></entry><entry><title>41123239W11</title><link href="./W11%2039.html" rel="alternate"></link><published>2024-04-30T16:00:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w11</name></author><id>tag:None,2024-04-30:./W11 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;W6&lt;/h1&gt;
-&lt;p&gt;我把我負責的影片上傳上去.....&lt;/p&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry><entry><title>41123239W9</title><link href="./W9%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w9</name></author><id>tag:None,2024-03-28:./W9 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;利用上週加入的全班倉儲,在裡面編寫前10週之統整心得,以每組為例&lt;/h1&gt;
+&lt;p&gt;因為每個人都有權限可在上面改版, 這樣就會出現一個問題就是說, 在 push 得時候只能一個人推, 如果全部人一起推會導致出現亂碼, 我們所打的東西都會亂跑, 這時就有一個方法可以解決這個問題預防此問題產生, 就是在個人或各組完成階段性改版之前, 先透過獨立分支進行資料改版提交與推送, 等個人階段性版本確定後, 再與分組分支合併, 最後各組的階段性版本再與建立網頁的主分支進行合併.&lt;/p&gt;</content><category term="W11 39"></category><category term="41123239w11"></category></entry><entry><title>41123239W10</title><link href="./W10%2039.html" rel="alternate"></link><published>2024-04-24T16:00:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w10</name></author><id>tag:None,2024-04-24:./W10 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;2024 Spring 協同產品設計實習課程教導, 建立各班學員的倉儲、網站與分組連結、鋼球平衡台 PID 控制與模擬、鋼球平衡台零組件繪圖.&lt;/h1&gt;
+&lt;p&gt;根據老師所給的 2a.txt 裡的['學號', 'Github 帳號', '組別'], 以下是利用 Python 寫的初步資料數列.
+建一個球體平衡平台涉及到平台本身的物理結構建造以及用於維持球體平衡的控制算法的理論研究)&lt;/p&gt;</content><category term="W10 39"></category><category term="41123239w10"></category></entry><entry><title>41123239W9</title><link href="./W9%2039.html" rel="alternate"></link><published>2024-04-14T16:00:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w9</name></author><id>tag:None,2024-04-14:./W9 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;期中整合&lt;/h1&gt;
 &lt;p&gt;影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZB56btamJ1w?si=SqcKVpT7sWGqfloK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="W9 39"></category><category term="41123239w9"></category></entry><entry><title>41123239w3</title><link href="./W3%2039.html" rel="alternate"></link><published>2024-03-07T11:01:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w3</name></author><id>tag:None,2024-03-07:./W3 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZB56btamJ1w?si=SqcKVpT7sWGqfloK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="W9 39"></category><category term="41123239w9"></category></entry><entry><title>Tags: 41123239w6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-06-13T06:56:08+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;W6&lt;/h1&gt;
+&lt;p&gt;更新分組倉儲中的分組倉儲
+cd2024 2a w6 取下子模組, 以及更新學員倉儲內容&lt;/p&gt;
+&lt;p&gt;先前我們有把每個人的倉儲利用子模組導入組別倉儲, 即使你自己的倉儲有更新內容, 也不會顯示目前更新次數, 如何讓子
+模組同步就利用 update 更新到最新版本. *&lt;/p&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry><entry><title>41123239w3</title><link href="./W3%2039.html" rel="alternate"></link><published>2024-03-07T11:01:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w3</name></author><id>tag:None,2024-03-07:./W3 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;期中報告&lt;/h1&gt;
-&lt;p&gt;由各組員在其個人的 cd2024 倉儲中, 以 LaTeX 格式分工完成文章的英文與中文翻譯並列資料, 最後在分組網站的 Release 或 downloads 區完成 2a-midbgx_report.pdf 的製作.&lt;/p&gt;</content><category term="w3 39"></category><category term="41123239w3"></category></entry><entry><title>41123239w2</title><link href="./W2%2039.html" rel="alternate"></link><published>2024-03-02T11:01:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w2</name></author><id>tag:None,2024-03-02:./W2 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;由各組員在其個人的 cd2024 倉儲中, 以 LaTeX 格式分工完成文章的英文與中文翻譯並列資料, 最後在分組網站的 Release 或 downloads 區完成 2a-midbgx_report.pdf 的製作.&lt;/p&gt;</content><category term="w3 39"></category><category term="41123239w3"></category></entry><entry><title>41123239w2</title><link href="./W2%2039.html" rel="alternate"></link><published>2024-03-02T11:01:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w2</name></author><id>tag:None,2024-03-02:./W2 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;利用 init_replit 指令安裝所需 Python 模組&lt;/h1&gt;
 &lt;p&gt;啟動動態 指令 1.chmod u+x init_replit 2. ./init_replit 3. Python3 main.py&lt;/p&gt;
 &lt;p&gt;靜態 指令 Python3 -m http.server&lt;/p&gt;
-&lt;p&gt;Push 指令 1.git add . 2. git commit -m " add+你要推的內容 " 3. git push&lt;/p&gt;</content><category term="w2 39"></category><category term="41123239w2"></category></entry><entry><title>41123239W5</title><link href="./W5%2039.html" rel="alternate"></link><published>2024-02-18T11:01:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w5</name></author><id>tag:None,2024-02-18:./W5 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;Push 指令 1.git add . 2. git commit -m " add+你要推的內容 " 3. git push&lt;/p&gt;</content><category term="w2 39"></category><category term="41123239w2"></category></entry><entry><title>41123239W5</title><link href="./W5%2039.html" rel="alternate"></link><published>2024-02-18T11:01:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w5</name></author><id>tag:None,2024-02-18:./W5 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;影片整理&lt;/h1&gt;
-&lt;p&gt;教學影片分組整理並自評: * 在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上 * 從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排 * 並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點 * 需再加上自評...&lt;/p&gt;</content><category term="w5 39"></category><category term="41123239w5"></category></entry><entry><title>2024 Spring 課程 39</title><link href="./w1%2039.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-16T06:39:29+08:00</updated><author><name>41123239w1</name></author><id>tag:None,2024-02-18:./w1 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;教學影片分組整理並自評: * 在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上 * 從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排 * 並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點 * 需再加上自評...&lt;/p&gt;</content><category term="w5 39"></category><category term="41123239w5"></category></entry><entry><title>2024 Spring 課程 39</title><link href="./w1%2039.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-13T06:49:02+08:00</updated><author><name>41123239w1</name></author><id>tag:None,2024-02-18:./w1 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:18:04+08:00</updated><entry><title>41123239W12</title><link href="./w12%2039.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w12</name></author><id>tag:None,2024-05-02:./w12 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123239協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:23:43+08:00</updated><entry><title>41123239W12</title><link href="./w12%2039.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w12</name></author><id>tag:None,2024-05-02:./w12 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -39,7 +39,11 @@ Python 程式方法整合各學員子模組的網誌內容, 統整一起.&lt;/p&
 &lt;p&gt;5.分組模擬場景設計的協同: 利用 NX1876 畫完的完成圖, 導入一個平台(CoppeliaSim), 加入感測器 (Sensors)、致動
 器 (Actuators) 以及 ZMQ RemoteAPI Python程式, 找到合用或最佳的協同產品設計模式.&lt;/p&gt;
 &lt;p&gt;6.分組專案簡報設計的協同: 在上述各產品設計階段所累積的各種資料, 該如何有效整合到專案完成後必須進行的網際簡報
-中.&lt;/p&gt;</content><category term="W8 39"></category><category term="41123239w8"></category></entry><entry><title>41123239w6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+中.&lt;/p&gt;</content><category term="W8 39"></category><category term="41123239w8"></category></entry><entry><title>41123239w7</title><link href="./W7%2039.html" rel="alternate"></link><published>2024-04-01T16:00:00+08:00</published><updated>2024-06-13T07:23:22+08:00</updated><author><name>41123239w7</name></author><id>tag:None,2024-04-01:./W7 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w1-w6內容統整&lt;/h1&gt;</content><category term="W7 39"></category><category term="41123239w7"></category></entry><entry><title>41123239w6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -47,23 +51,12 @@ Python 程式方法整合各學員子模組的網誌內容, 統整一起.&lt;/p&
 &lt;p&gt;更新分組倉儲中的分組倉儲
 cd2024 2a w6 取下子模組, 以及更新學員倉儲內容&lt;/p&gt;
 &lt;p&gt;先前我們有把每個人的倉儲利用子模組導入組別倉儲, 即使你自己的倉儲有更新內容, 也不會顯示目前更新次數, 如何讓子
-模組同步就利用 update 更新到最新版本. *&lt;/p&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry><entry><title>41123239w6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+模組同步就利用 update 更新到最新版本. *&lt;/p&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry><entry><title>41123239w4</title><link href="./W4%2039.html" rel="alternate"></link><published>2024-03-14T11:01:00+08:00</published><updated>2024-06-13T07:23:43+08:00</updated><author><name>41123239w4</name></author><id>tag:None,2024-03-14:./W4 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;w1-w6內容統整&lt;/h1&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry><entry><title>41123239w6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w1-w6內容統整&lt;/h1&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry><entry><title>41123239w6</title><link href="./W6%2039.html" rel="alternate"></link><published>2024-03-28T16:00:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w6</name></author><id>tag:None,2024-03-28:./W6 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;W6&lt;/h1&gt;
-&lt;p&gt;更新分組倉儲中的分組倉儲
-cd2024 2a w6 取下子模組, 以及更新學員倉儲內容&lt;/p&gt;
-&lt;p&gt;先前我們有把每個人的倉儲利用子模組導入組別倉儲, 即使你自己的倉儲有更新內容, 也不會顯示目前更新次數, 如何讓子
-模組同步就利用 update 更新到最新版本. *&lt;/p&gt;</content><category term="W6 39"></category><category term="41123239w6"></category></entry><entry><title>41123239w3</title><link href="./W3%2039.html" rel="alternate"></link><published>2024-03-07T11:01:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w3</name></author><id>tag:None,2024-03-07:./W3 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;分組任務&lt;/h1&gt;
+&lt;p&gt;教學影片分組整理並自評: * 在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上 * 從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排 * 並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;</content><category term="W4 39"></category><category term="41123239w4"></category></entry><entry><title>41123239w3</title><link href="./W3%2039.html" rel="alternate"></link><published>2024-03-07T11:01:00+08:00</published><updated>2024-06-13T07:14:54+08:00</updated><author><name>41123239w3</name></author><id>tag:None,2024-03-07:./W3 39.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
